@@ -1,7 +1,7 @@
 {
     "name": "open-functions/github",
     "description": "The GitHub Open Function package integrates GitHub with large language models (LLMs) using the Open Functions architecture, enabling streamlined repository management and file operations.",
-    "homepage": "https://github.com/AssistantEngine/open-functions-github",
+    "homepage": "https://github.com/open-functions/github",
     "license": "MIT",
     "authors": [
         {
